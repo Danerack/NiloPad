@@ -28,5 +28,24 @@ PCB
 
     PCB
  ![PCB](https://github.com/user-attachments/assets/c8121005-f065-4698-a415-4bd83a8869be)
-    
 
+Firmware Overview
+
+    Idk bruv I have never used KMK or QMK before so I just did what the tutorial did.
+    I will program it on my own once I get it tho
+
+BOM:
+
+    1 Seeed XIAO RP2040 
+    4 MX-Style switches 
+    1 EC11 Rotary encoders 
+    1 0.91 inch OLED displays 
+    4 Blank DSA keycaps 
+    4 SK6812 MINI-E LEDs 
+    5 M3x16mm screws
+    5 M3x5mx4mm heatset inserts
+    1 3D PRINTED CASE
+
+Ight thank you :D
+    
+    
