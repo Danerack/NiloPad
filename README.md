@@ -15,6 +15,7 @@ Features:
 CAD Model:
 
     Everything fits together using 5 M3 Bolts and heatset inserts. All 5 of themare for the PCB
+![cad](https://github.com/user-attachments/assets/fef8d5ed-fcf2-4f87-9ebf-d6c9668bbe1e)
 
-    
+    Made in Fision360, :)
 
