@@ -1,6 +1,6 @@
 # NiloPad
 
-    NiloPad is a 4 key macropad with a rotary encoder, an OLED Display. It also has 4 WS2812B Leds, and uses KMK firmware
+    NiloPad is a 4 key macropad with a rotary encoder, an OLED Display. It also has 4 SK6812 MINI-E LEDs, and uses KMK firmware
 
 Features:
 
